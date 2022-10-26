@@ -37,3 +37,11 @@ Este es un repositorio de comandos de Linux del curso Sistemas Operativos
 | sudo passwd | cambia la contrasena de un usuario| |
 | history | muestra el historial d elos comando utilizados | |
 | history / grep (comando) | muestra momentos donde el comando fue utilizado | |
+| du -h foto.jpg | muestra el tamano de un archvio | du wallpaper.jpg muestra el tamano de esa imagen |
+| stat archivo.jpg | muestra cuando fue la ultima vez que se modifico y acceso un archivo| |
+| file archivo.jpg | muestra cual es el formato del archivo | |
+| chown user1 archivo.jpg | | |
+| df - h | muestra el espacio del disco duro | |
+| mount | montaje de dispositivos en el sistema de archivos | |
+| Gparted | administra particiones | |
+| gnome-disk-utility | muestra informacion sobre el disco | |
